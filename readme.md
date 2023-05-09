@@ -12,7 +12,15 @@ This implementation of the algorithm includes a visual representation of the sor
 
 ## Usage
 
-To use this implementation of the algorithm, you can copy and paste the code into a JavaScript environment like Node.js and run it in the terminal. The code will generate a random array of numbers, sort the array using the bubble sort algorithm, and display the sorted array and the visual representation of the sorting process.
+To use this implementation of the algorithm
+
+ ### clone this repo -
+```git clone https://github.com/deepthapliyal/JavaScript-Bubble-Sort-Algorithm-with-Visual-Representation.git```
+### Open in your text editor 
+run 
+```node index.js```
+
+The code will generate a random array of numbers, sort the array using the bubble sort algorithm, and display the sorted array and the visual representation of the sorting process.
 
 ## Example
 

@@ -1,0 +1,19 @@
+{
+  "name": "javascript-bubble-sort-algorithm-with-visual-representation",
+  "version": "1.0.0",
+  "description": "This is an implementation of the bubble sort algorithm in JavaScript, with a visual representation of the sorting process using ASCII art.",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepthapliyal/JavaScript-Bubble-Sort-Algorithm-with-Visual-Representation.git"
+  },
+  "author": "deepthapliyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepthapliyal/JavaScript-Bubble-Sort-Algorithm-with-Visual-Representation/issues"
+  },
+  "homepage": "https://github.com/deepthapliyal/JavaScript-Bubble-Sort-Algorithm-with-Visual-Representation#readme"
+}

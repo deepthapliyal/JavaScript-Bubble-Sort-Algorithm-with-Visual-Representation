@@ -18,7 +18,8 @@ To use this implementation of the algorithm
 ```git clone https://github.com/deepthapliyal/JavaScript-Bubble-Sort-Algorithm-with-Visual-Representation.git```
 ### Open in your text editor 
 run 
-```node index.js```
+```npm init
+node index.js```
 
 The code will generate a random array of numbers, sort the array using the bubble sort algorithm, and display the sorted array and the visual representation of the sorting process.
 
